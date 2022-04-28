@@ -1,5 +1,7 @@
 # Hello World
+
 ![](https://komarev.com/ghpvc/?username=arturohanyan1)
+
 ### My name is Artur. I am a frontend developer.
 ***
 
@@ -20,7 +22,7 @@
 
 ### My Tech Stack
 
-#### Frontend
+Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
@@ -38,7 +40,7 @@
 ...
 
 <details>
-<summary>More Skills</summary>
+<summary> **More Skills** </summary>
 
 ![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
