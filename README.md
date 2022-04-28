@@ -5,21 +5,18 @@
 
 ### My Contacts
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/artur-ohanyan-987485160">
     <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/artur_ohanyan">
+    <img src="https://img.shields.io/badge/-Telegram-000?&logo=Telegram" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/_artur_ohanyan/">
+    <img src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" alt="Instagram Badge"/>
   </a>
 </div>
 
-
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#Parag]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+***
 
 ### My Tech Stack
 
@@ -49,7 +46,6 @@
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
 </details>
-
-### My Contacts
+***
 
 
