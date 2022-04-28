@@ -52,4 +52,4 @@
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturohanyan1&show_icons=true&theme=radical)
 
-<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arturohanyan1&show_icons=true" />
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturohanyan1&langs_count=8&layout=compact" />
