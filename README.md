@@ -1,4 +1,4 @@
 ### Hello World 👋
 ***
-##My name is Artur. I`m a frontend developer.
+## My name is Artur. I`m a frontend developer.
 ***
