@@ -12,12 +12,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ...
-
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ...
-
 #### Database
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
@@ -32,3 +30,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
 </details>
+
+### My Contacts
+
+
