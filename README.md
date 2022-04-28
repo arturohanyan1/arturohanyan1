@@ -40,7 +40,7 @@
 ...
 
 <details>
-<summary>More Skills</summary>
+<summary>More Skills:</summary>
 
 ![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
@@ -54,6 +54,6 @@
 ### Statistics
 
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary>:zap: GitHub Stats:</summary>
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arturohanyan1&show_icons=true&theme=radical"/>
 </details>
