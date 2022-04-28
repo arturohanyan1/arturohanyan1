@@ -46,6 +46,10 @@
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
 </details>
+
 ***
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturohanyan1&show_icons=true&theme=radical)
 
 
