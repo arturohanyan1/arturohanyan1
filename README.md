@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" alt="Instagram Badge"/>
   </a>
 </div>
+
 ***
 
 ### My Tech Stack
@@ -51,4 +52,8 @@
 ***
 
 ### Stats
+
+<details>
+<summary>More Skills</summary>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturohanyan1&show_icons=true&theme=radical)
+</details>
