@@ -3,9 +3,8 @@
 ### My name is Artur. I`m a frontend developer.
 ***
 ### My Tech Stack
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+[JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+[React](https://img.shields.io/badge/-React-000?&logo=React)
 ...
 
 <details>
