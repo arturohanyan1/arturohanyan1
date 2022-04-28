@@ -1,4 +1,4 @@
-# Hello World
+# Hello World!
 
 ![](https://komarev.com/ghpvc/?username=arturohanyan1)
 
@@ -41,7 +41,6 @@
 
 <details>
 <summary>More Skills</summary>
-
 
 ![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
