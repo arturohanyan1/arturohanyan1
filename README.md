@@ -4,7 +4,7 @@
 ***
 ### My Tech Stack
 
-##### Frontend
+#### Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -14,10 +14,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ...
 
-##### Backend
+#### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+...
+
+### Database
+
+![SequelizeORM](https://img.shields.io/badge/-SequelizeORM-000?&logo=SequelizeORM)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ...
 
 <details>
