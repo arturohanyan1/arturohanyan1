@@ -28,7 +28,7 @@
 
 ![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode)
+![VisualStudioCode](https://img.shields.io/badge/-visual%20studio%20code-000?&logo=visual%20studio%20code)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
 </details>
