@@ -44,14 +44,14 @@
 
 ![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
 </details>
 
 ***
 
-### Stats
+### Statistics
 
 <details>
   <summary>:zap: Statistics:</summary>
