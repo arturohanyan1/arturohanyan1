@@ -17,12 +17,11 @@
     <img src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" alt="Instagram Badge"/>
   </a>
 </div>
-
 ***
 
 ### My Tech Stack
 
-Frontend
+#### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
@@ -40,7 +39,7 @@ Frontend
 ...
 
 <details>
-<summary> **More Skills** </summary>
+<summary>More Skills</summary>
 
 ![JEST](https://img.shields.io/badge/-JEST-000?&logo=JEST)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
